@@ -6,4 +6,4 @@ Practice Docker Compose for class task
 
 ![Alt text](docker1.png "Optional title")
 
-x
+
